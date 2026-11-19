@@ -1,0 +1,11 @@
+{
+  "name": "slack-community-intelligence-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Slack Community Intelligence Agent",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  }
+}
